@@ -11,3 +11,6 @@ Type cmd in the file directory
 
 
 This checker can generate strings to check as well as check a 'usernames.txt'
+
+
+if usernames are found, they will be put into "available_usernames.txt"
